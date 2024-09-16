@@ -8,10 +8,9 @@ My goal is to analyze the crime data to identify and understand trends over time
 Using Kaggle and a publicaly available dataset [Salt Lake City Police Cases 2011-2014](https://www.opendatanetwork.com/dataset/opendata.utah.gov/a56y-d97m), I performed data cleaning, processed the data to add months, years, season, and even process the location data for a [Tableau Map.](https://public.tableau.com/views/SLCCrimeReports2010-2014/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <br>
 <br>
-The whole detailed analysis and findings are documented in this [notebook]()
+The whole detailed analysis and findings are documented in this [notebook](https://github.com/CameronCSS/SLC-Police-Cases-2011-2014/blob/main/SLC-crime-data-2010-2014.ipynb)
 <br>
 <br>
-PDF Report *(Pictured above)*
 
 <hr>
 
