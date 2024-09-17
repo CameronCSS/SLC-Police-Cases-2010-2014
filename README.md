@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 
-
-![SLC Police Cases 2011-2014 (Letter Sized)](https://github.com/user-attachments/assets/64decca5-60aa-4399-acdf-826c0487a8c4)
+![SLC Police Cases 2011-2014 (1)](https://github.com/user-attachments/assets/6501f271-371a-48e5-91fb-cb8635e5e20c)
 
 
 ## About The Project
@@ -69,6 +68,7 @@ The dataset reveals a broad range of different crimes, with **LARCENY** being 
 
 - **LARCENY** peaks on **Monday**.
     - **Possible Explanation:** The start of the workweek may create opportunities for looting as people return to their routines. The increased activity and busier environments on Mondays might be exploited by criminals.
+    - **Larceny** occurs **29% more** than traffic violations
 - **TRAFFIC** offenses are most frequent on **Friday**.
     - **Possible Explanation:** The end of the workweek often brings relaxed attitudes and increased social activities, potentially leading to more traffic offenses.
 - **ASSAULTS** crimes are highest on **Saturdays**.
@@ -80,10 +80,11 @@ The dataset reveals a broad range of different crimes, with **LARCENY** being 
 
 - **FRAUD** cases have the longest processing time, with the longest taking **1770 days** to be closed
 - **EXPLOITATION** cases have the highest **average of 231 days** from report to close
+- Complex cases take, on average, **50% longer** to close than other crimes.
 
 ### Seasonal Patterns
 
-**Summer** has the highest crime count.
+**Summer** has the highest crime count. With an **8% higher** crime rate than other seasons on average
 
 - **Possible Explanation:** The summer is the most common time for personal activities. With so many people away from school and their regular routines it could possibly explain why most crime is reported in the summer.
 
