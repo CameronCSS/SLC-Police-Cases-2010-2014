@@ -90,6 +90,13 @@ The dataset reveals a broad range of different crimes, with **LARCENY** being 
 
 *The data suggests seasonal variation in crime rates, with different types of crimes peaking in specific seasons.*
 
+### Location trends
+
+- There were over **4,200 Crimes** reported on the unfortunately named “Hope Ave”
+- A majority of reported crimes were in the most populated areas of salt lake, often where large clusters of business were located
+  
+
+
 ## Conclusion
 
 - The data reveals that crime patterns are indeed influenced by the day of the week and seasonal variations. Mondays and Fridays are associated with distinct crime types possibly due to transitions between work and personal life, while weekends see increased crime rates which may be linked to social activities.
