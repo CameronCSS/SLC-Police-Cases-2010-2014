@@ -96,13 +96,20 @@ The dataset reveals a broad range of different crimes, with **LARCENY** being 
 - A majority of reported crimes were in the most populated areas of salt lake, often where large clusters of business were located
   
 
+# ✅ Recommendations
 
-## Conclusion
-
-- The data reveals that crime patterns are indeed influenced by the day of the week and seasonal variations. Mondays and Fridays are associated with distinct crime types possibly due to transitions between work and personal life, while weekends see increased crime rates which may be linked to social activities.
-- Understanding these patterns can inform targeted crime prevention strategies, such as focused policing on peak days and addressing specific crime types prevalent on different days.
-- Recognizing seasonal and daily crime trends can help in planning resource allocation throughout the year.
-
+> Based on the data, here are a few targeted recommendations for the state to consider:
+> 
+1. **Enhance Security for High-Crime Days and Areas**
+    - **Targeted Security:** Implement heightened security measures on Mondays (for larceny) and Saturdays (for assaults). Increase security personnel, especially in high-crime areas like Hope Ave and around popular business zones.
+    - **Community Engagement:** Develop community outreach programs to foster collaboration among local businesses. This can create a business watch network that enhances safety and makes Salt Lake City a more attractive location for new businesses.
+    
+2. **Invest in Fraud and Embezzlement experts**
+    - **Fraud Prevention Programs:** Invest in internal experts, as these complex cases have long processing times. This will help prevent and address local business more effectively, protecting our local economy from additional financial loss.
+    - **Education and Awareness:** Conduct workshops or informational sessions for local employees and customers on how to recognize and report suspicious activities. This can help in reducing incidents and speeding up case resolutions.
+3. **Leverage Technology**
+    - **Advanced Surveillance:** Invest in surveillance technology and analytics to better monitor crime trends and respond quickly. Technologies such as AI-driven analytics can help identify patterns and potential threats more efficiently.
+    - **Data Analysis Tools:** Use data analysis tools to continuously monitor and assess crime trends in relation to local business operations. This will help in making informed decisions about security and operational adjustments in our area.
 # 📊 Graphs and Tables
 > → [Data Report](https://www.canva.com/design/DAGQ3-L9EaI/pbXbXFWactecFB4y8hVrIg/view)  <sub>**Click to view the report*</sub>
 >
