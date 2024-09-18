@@ -16,6 +16,9 @@ Detailed code analysis and findings are documented in this [notebook](https://ww
 
 ><p align="left"><a href="#insights"> ➡️ Jump straight to the insights</a></p>
 >
+><p align="left"><a href="#recommend"> ✅ View my Recommendations</a></p>
+>
+
 
 <hr>
 
@@ -96,6 +99,7 @@ The dataset reveals a broad range of different crimes, with **LARCENY** being 
 - A majority of reported crimes were in the most populated areas of salt lake, often where large clusters of business were located
   
 
+<a name="recommend"></a>
 # ✅ Recommendations
 
 > Based on the data, here are a few targeted recommendations for the state to consider:
