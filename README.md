@@ -23,7 +23,12 @@ Detailed code analysis and findings are documented in this [notebook](https://ww
 <hr>
 
 ## 🧹 Data Cleaning
+<sub>*▼ Click arrow to view Data Cleaning Steps*</sub>
 
+<details>
+    <summary>Data Cleaning Steps</summary>
+    <br>
+    
 - **Deal with Duplicates:**
     - Identified and removed Duplicates that were not purposeful
 - **Fix or Remove NA Values:**
@@ -52,7 +57,7 @@ Detailed code analysis and findings are documented in this [notebook](https://ww
     - Aggregate existing data to create new values to help identify trends
 - **Documenting Steps:**
     - Keep a record of the data cleaning steps performed to ensure reproducibility and to provide clarity for your future self or other team members.
-
+</details>
 
 <a name="insights"></a>
 # 💡 Insights on Crime trends
