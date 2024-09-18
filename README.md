@@ -4,15 +4,16 @@
 
 
 ## About The Project
-My goal is to analyze the crime data to identify and understand trends over time and across different locations in Salt Lake City.
-Using Kaggle and a publicaly available dataset [Salt Lake City Police Cases 2011-2014](https://www.opendatanetwork.com/dataset/opendata.utah.gov/a56y-d97m), I performed data cleaning, processed the data to add months, years, season, and even process the location data for a [Tableau Map.](https://public.tableau.com/views/SLCCrimeReports2010-2014/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-<br>
-<br>
-Detailed code analysis and findings are documented in this [notebook](https://www.kaggle.com/code/cameronseamons/slc-crime-data-2010-2014)
+Utah provides publicly accessible data on [**Police Cases between 2010-2014**](https://www.opendatanetwork.com/dataset/opendata.utah.gov/a56y-d97m), including details on case types, crime locations, and both 'Reported' and 'Closed' dates for each incident.
+
+The goal of this project is to conduct an in-depth analysis of this data to uncover crucial insights that can enhance police policies and drive community engagement and business success for the local economy.
+
 <br>
 <br>
 
-→ [Data Report](https://www.canva.com/design/DAGQ3-L9EaI/pbXbXFWactecFB4y8hVrIg/view)   <sub>**Click to view the report*</sub>
+Detailed code analysis and findings are documented in this [notebook](https://www.kaggle.com/code/cameronseamons/slc-crime-data-2010-2014)
+
+<br>
 
 ><p align="left"><a href="#insights"> ➡️ Jump straight to the insights</a></p>
 >
