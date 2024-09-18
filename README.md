@@ -6,7 +6,7 @@
 ## About The Project
 Utah provides publicly accessible data on [**Police Cases between 2011-2014**](https://www.opendatanetwork.com/dataset/opendata.utah.gov/a56y-d97m), including details on case types, crime locations, and both 'Reported' and 'Closed' dates for each incident.
 
-The goal of this project is to conduct an in-depth analysis of this data to uncover crucial insights that can enhance police policies and drive community engagement and business success for the local economy.
+The goal of this project is to perform an in-depth analysis of this data to uncover crucial insights that can enhance police policies, drive community engagement, and support targeted business actions to combat theft and bolster the local economy.
 
 <br>
 <br>
