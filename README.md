@@ -59,6 +59,8 @@ Detailed code analysis and findings are documented in this [notebook](https://ww
     - Keep a record of the data cleaning steps performed to ensure reproducibility and to provide clarity for your future self or other team members.
 </details>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <a name="insights"></a>
 # 💡 Insights on Crime trends
 
@@ -102,7 +104,8 @@ The dataset reveals a broad range of different crimes, with **LARCENY** being 
 
 - There were over **4,200 Crimes** reported on the unfortunately named “Hope Ave”
 - A majority of reported crimes were in the most populated areas of salt lake, often where large clusters of business were located
-  
+
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <a name="recommend"></a>
 # ✅ Recommendations
@@ -119,6 +122,10 @@ The dataset reveals a broad range of different crimes, with **LARCENY** being 
 3. **Leverage Technology**
     - **Advanced Surveillance:** Invest in surveillance technology and analytics to better monitor crime trends and respond quickly. Technologies such as AI-driven analytics can help identify patterns and potential threats more efficiently.
     - **Data Analysis Tools:** Use data analysis tools to continuously monitor and assess crime trends in relation to local business operations. This will help in making informed decisions about security and operational adjustments in our area.
+  
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 # 📊 Graphs and Tables
 > → [Data Report](https://www.canva.com/design/DAGQ3-L9EaI/pbXbXFWactecFB4y8hVrIg/view)  <sub>**Click to view the report*</sub>
 >
